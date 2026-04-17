@@ -1,1 +1,3 @@
-def example_tool(): return 'Tool working'
+# Placeholder for future expansion
+def interpret_conditions():
+    return "Coming soon"
