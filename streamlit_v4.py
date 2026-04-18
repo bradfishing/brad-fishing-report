@@ -47,7 +47,7 @@ if st.button("Generate Report"):
     """
 
     response = client.responses.create(
-        model="gpt-4.1-mini",
+        model="gpt-4o-mini",
         input=prompt
     )
 
